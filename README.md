@@ -1,4 +1,4 @@
-Please install JDK upper 8 version then in CLI
+Use JDK upper 8 version localy or online then in CLI
 
   javac DvbS2.java
   
